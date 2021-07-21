@@ -1,8 +1,15 @@
-## Welcome to GitHub Pages
+## CS-499 Final Project - Southern New Hampshire University
+
 
 You can use the [editor on GitHub](https://github.com/AaronWUSN/AaronWUSN.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+## Milestone 1: Code Review
+
+This is the first step in the final project. It involves taking the artifact selected for the final project, and reviewing the code for errors or potential improvements. This first step is cruicial to upgrading/improving software, as it is a blunt look at the layout of the code. It is an analysis that documents the areas for improvement.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rSHNLTSwy0Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Markdown
 
