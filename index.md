@@ -12,6 +12,7 @@ This is the first step in the final project. It involves taking the artifact sel
 The code review can be viewed at: [Code Review](https://youtu.be/rSHNLTSwy0Y)
 
 
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
