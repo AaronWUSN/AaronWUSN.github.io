@@ -14,7 +14,7 @@ Throughout the Computer Science program I have learned a significant amount. Thi
 
 ## Code Review:
 
-This is the first step in the final project. It involves taking the artifact selected for the final project, and reviewing the code for errors or potential improvements. This first step is cruicial to upgrading/improving software, as it is a blunt look at the layout of the code. It is an analysis that documents the areas for improvement.
+This is the first step in the final project. It involves taking the artifact selected for the final project, and reviewing the code for errors or potential improvements. This first step is crucial to upgrading/improving software, as it is a blunt look at the layout of the code. It is an analysis that documents the areas for improvement.
 
 The code review can be viewed at: [Code Review](https://youtu.be/rSHNLTSwy0Y)
 
