@@ -33,6 +33,8 @@ I have selected a single artifact to showcase across all three categories (Softw
 
 The database must be downloaded with the other files and placed in the same folder. The SQLite3 header file is included for those that do not have SQLite installed on their computer, and should still be downloaded to the same folder as the other files.
 
+All files can be downloaded together by going to :[https://github.com/AaronWUSN/AaronWUSN.github.io](Aaron Walker's GitHub) and clicking CODE -> DOWNLOAD AS ZIP.
+
 [CPP File](FinalProject.cpp) - This is the final project .cpp file containing all of the code
 
 [Header File](FinalProject.h) - Final project header file with function definitions
