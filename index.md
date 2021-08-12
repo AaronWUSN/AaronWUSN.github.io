@@ -10,7 +10,7 @@ Throughout the Computer Science program I have learned a significant amount. Thi
 	
   Software engineering and database management were a large portion of the program. Reverse engineering gave me a better understanding for assembly language and how data is read by a computer. Taking a project that was presented only in assembly, and reverse engineering that project to C++ was the basis for my final project. Learning the fundamentals of databases was an extremely important aspect of the program as well. Interfacing programs with databases is very beneficial for data storage and usage in the Computer Science field. There are numerous solutions for database implementation, and the overarching knowledge I have gained throughout this program will prove extremely valuable in the future.
 
-## Project Introduction
+## Project Introduction:
 
   The artifact I have chosen for my final project showcases the level of knowledge I have obtained throughout the Computer Science program. It was initially written in C++ and was reverse engineered from assembly. It is a program that stores clients names, and whether they have a brokerage account or retirement account with the user. At the time I wrote the program in C++ I had very little experience with it, and while it worked functionally, it didn’t have the functions that many modern programs need. Because of this I felt it was the perfect subject for my final project. I improved upon the syntax, formatting, and introduced new features such as a database, basic encryption, login features, CRUD functionality and more. It has been drastically improved over its first iteration, and I am proud of the result.
 
