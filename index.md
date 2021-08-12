@@ -32,11 +32,11 @@ This project has given me the opportunity to take a very deep dive on a program,
 
 The design and engineering of this project required a significant amount of work. When initially created, it was my first major project working with C++ and it was reverse engineered from assembly language. The layout, syntax, and practices followed all needed improvement. The first major improvement was reducing the number of global variables down to the minimum required for the program. I was able to reduce the number of global variables down to one, which was the database variable. Other major improvements included changing the menu structure to a switch case from a if/else statement, better utilization of variables, login functionality, and fixing the overall layout of the menu and selections. I also migrated all of the class definitions to a header file in order to align with best practices.
 
-## Narrative- Algorithm and Data Structures
+## Narrative- Algorithm and Data Structures:
 
 Meeting the requirements of this section required planning and research. I added a simple encryption algorithim in order to show my ability to work with basic algorithms as well as display awareness of security concerns for programming. The username and password are never decrypted, and the user input is encrypted and compared to the stored username and password. If the user has never logged in before, the user is prompted for a new username and password. This will create encrypted text files with the username and password stored in them. I chose this method to display my knowldege and improvement in algorithms as well as display an active concern for security.
 
-## Narrative- Databases
+## Narrative- Databases:
 
 I knew going into the project that I would need some extra time to work out the database, and I was able to get enough accomplished early on that I had the time to properly implement the database. This proved to be excellent planning, as I ran into significant issues attempting to implement MS Access as a database for this artifact. I did some significant research working to make MS Access work, but the time constraints called for an executive decision on how to press forward. I researched my options and chose to work with SQLite3 for the database implementation. This turned out to be a very important and timely decision, as the database came together quite well on SQLite3. I was able to gain important experience with MS Access, while knowing when and how to pivot directions for success.
 
